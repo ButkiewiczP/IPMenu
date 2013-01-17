@@ -1,3 +1,10 @@
+This Project Has Been Moved
+=============
+-------------
+
+For the most up-to-date code, please visit [our new repository](https://github.com/IntrepidPursuits/IPMenu)
+
+
 IPMenu
 =============
 -------------
@@ -87,4 +94,5 @@ This code is distributed under the terms and conditions of the MIT license.
 Change-log
 ==========
 
+**Project Moved** on 01/17/2013
 **Initial Working Release** on 01/15/2013
